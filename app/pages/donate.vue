@@ -8,7 +8,7 @@ import { Heart } from 'lucide-vue-next';
       <img class="rounded-full w-20 h-20" src="https://avatars.githubusercontent.com/u/12133996?v=4" alt="avatar" />
       <span class="text-lg w-full sm:w-1/2 text-center font-medium">I'm Matteo, a developer from Italy.</span>
       <p class="w-full sm:w-2/3 text-center">
-        I'm the creator and maintainer of the <span class="font-medium italic">Caesium Image Compressor</span> project, started more than 10 years ago.<br />If you choose to sponsor, all the funds will be used to further develop the
+        I'm the creator and maintainer of the <span class="font-medium italic">图片压缩</span> project, started more than 10 years ago.<br />If you choose to sponsor, all the funds will be used to further develop the
         project, mainly covering the costs of hardware and to maintain the <a class="hover:text-purple-500 underline underline-offset-2" href="//caesium.app">online web service</a>.
       </p>
       <h1 class="text-2xl mt-12">Select your preferred method</h1>
