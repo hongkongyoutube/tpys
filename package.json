@@ -1,0 +1,48 @@
+{
+  "name": "caesium-app",
+  "private": true,
+  "version": "2.2.2",
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^10.2.1",
+    "@nuxtjs/robots": "^5.5.6",
+    "@nuxtjs/sitemap": "^7.4.7",
+    "@pinia/nuxt": "^0.11.3",
+    "@tailwindcss/forms": "^0.5.10",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "lucide-vue-next": "^0.554.0",
+    "moment": "^2.30.1",
+    "nuxt": "^4.2.1",
+    "pinia": "^3.0.4",
+    "pinia-plugin-persistedstate": "^4.7.1",
+    "preline": "^3.2.3",
+    "uuid": "^13.0.0",
+    "vanilla-cookieconsent": "^3.1.0",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.10.0",
+    "@tailwindcss/postcss": "^4.1.17",
+    "@tailwindcss/vite": "^4.1.17",
+    "@types/file-saver": "^2.0.7",
+    "autoprefixer": "^10.4.22",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "postcss": "^8.5.6",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^4.1.17",
+    "vite-plugin-eslint2": "^5.0.4"
+  }
+}
