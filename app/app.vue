@@ -9,7 +9,7 @@ const matomoEndpoint = useRuntimeConfig().public.matomoEndpoint || '';
 const compressorStore = useCompressorStore();
 
 useHead({
-  title: 'Caesium Image Compressor - Online',
+  title: '图片压缩',
   meta: [
     {
       name: 'description',
